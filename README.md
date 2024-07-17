@@ -53,6 +53,6 @@ Our current model achieves:
 - Experiment with advanced algorithms (e.g., neural networks)
 ## Contact
 
-For questions or feedback, please open an issue or contact [Your Name](nivasreddy419@gmail.com).
+For questions or feedback, please open an issue or contact [NivasC](mailto:nivasreddy419@gmail.com).
 
 Remember: This tool is for educational purposes only. Always consult healthcare professionals for medical advice.
